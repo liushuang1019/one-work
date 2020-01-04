@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app
 
 ## Project setup
@@ -17,3 +18,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# one-work
+one
+>>>>>>> fa2b6880484834e0698a834f71bacb7c367bc729
